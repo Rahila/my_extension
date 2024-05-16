@@ -1,0 +1,3 @@
+This module demonstrates the use of constructs like SPI interface,
+LWLocks, use of shared memory, dynamic and static background workers,
+user defined C-functions
